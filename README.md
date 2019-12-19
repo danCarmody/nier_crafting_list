@@ -1,2 +1,492 @@
 # nier_crafting_list
 This database application tracks materials needed for each weapon and pod in Nier Automata.
+
+* Materials *
+
+*** Name ***
+Amber
+Ancient Mask
+Beast Hide
+Black Pearl
+Boar Meat
+Broken Battery
+Broken circuit
+Broken Key
+Copper Ore
+Clean Nut
+Complex Gadget
+Crushed Nut
+Crystal
+Drab Braclet
+Deented Plate
+Dented Socket
+Dye
+Eagle Eggs
+Elaborate Gadget
+Filler Metal
+Gold Ore
+Iron Ore
+Large Battery
+Large Gear
+Lovely Choker
+Machine Arm
+Machine Head
+Machine Leg
+Machine Oil
+Machine Torso
+Memory Alloy
+Metorite Shard
+Moldavite
+Moose Meat
+Mushroom
+Natural Rubber
+New BOlt
+Pearl
+Plant Seed
+Popola's Booze
+Powerup Part L
+Powerup Part M
+Powerup Part S
+Precious Earings
+Pristine Cable
+Pure Water
+Pyrite
+Rusted Clump
+Rusty Bolt
+Severed Cable
+Shattered Earing
+Silver Ore
+SImple Gadget
+Small Gear
+Stretched Coil
+Stripped Screw
+Sturdy Socket
+Tanning Agent
+Tech Manual
+Thick Dictionary
+Titanium Alloy
+Torn Book
+Tree Sap
+Tree Seed
+Viscous Oil
+Volt Proof Salve
+Warped Wire
+
+*** Locations ***
+Drop from Small Flyer
+Can be looted in the Desert Zone
+Can be looted in the City Ruins
+Reward for completing Photographs
+Reward for completing Find a Present
+Reward for completing Heritage of the Past
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+
+Random treasure in Desert Zone.
+
+Dropped by beasts such as Boar and Moose
+Reward for completing Sartre's Melancholy
+Reward for completing Animal Care
+
+Reward for completing Data Analysis Freak 2
+Reward for completing The Twins' Request
+Reward for completing The Wandering Couple'
+Flooded City, Can be found in Harvest points.
+Using the Scanner in the Flooded City
+Sold by the shop keeper in the Park Ruins during late route C.
+
+Dropped by Boar
+
+Lower subterranean portion of the Desert Zone, inside a chest by some Small Stubby enemies
+Reward for completing Family Squabble
+Reward for completing Robo-Dojo Black Belt
+
+Can be looted in the Desert Zone
+Reward for completing Broken Circuit
+Reward for completing Half-Wit Inventor
+Reward for completing Stamp Collecting
+
+Drop from Small Stubby
+Can be looted in the Desert Zone
+
+copper_ore_01_small-nier-automata-wiki-minCopper Ore
+
+Drop from Small Flyer
+On ground before the first encounter with Goliath
+When you first arrive at the City Ruins it can be found along the building wall
+Can be looted in the Desert Zone
+Reward for completing Half-Wit Inventor
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+
+Reward for completing Lord of the Valley
+Reward for completing Data on the Old World
+Reward for completing Reconnaissance Squad
+City Ruins - Locked Chest.
+
+Reward for completing Gathering Keepsakes
+Reward for completing Sorting Trouble 3
+At the start of routes C/D, City Ruins: Near Factory, on top of the Goliath's severed 'shovel arm'.
+Forest Zone: Royal Chamber. Treasure point in the cradle where the baby king was before.
+Can be found in a little chest near a locked one in the City Ruins: Cave.
+Can be found by scanning the river by the rope bridge near the "city ruins: near the tower" access point
+
+Lower subterranean portion of the Desert Zone, inside a chest by some Small Stubby enemies
+Reward for completing Retrieve the Confidential Intel
+Drops from linked-sphere type enemy
+Farmable in the Copied City (Route C only)
+Can be bought from Emil's Item Shop (Materials Shop)
+As a reward from the Half-Wit Inventor after investing 60,000G in him
+
+Loot from crate on stairs in first mission
+Loot from first mission after heading outside on the balcony to the right
+Found outside in the City Ruins by a truck.
+Can be looted in the Desert Zone
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+
+Given to you by the friendly Balloon Sister in the Amusement Park
+Picked up in Amusement Park.
+
+Drop from Small Stubby
+Confirmed drop from Small Stubby and Small Flyer in Desert: Center
+Reward for completing Retrieve the Confidential Intel
+Reward for completing Speed Star
+Reward for completing Parade Escort
+Sold by Emil.
+
+Lower subterranean portion of the Desert Zone, inside a chest by some Small Stubby enemies
+Dropped by Multi-Leg Medium Models in the Abandoned Factory
+Reward for completing Parade Escort
+Sold by Emil.
+
+Reward for completing The Twins' Request
+Reward for completing Storage Element
+Flooded City, Can be found in Harvest points.
+Sold by the clown item shop in the Amusement park
+
+Picked up in the Forest Zone.
+
+Reward for completing Reconnaissance Squad
+Reward for completing Sorting Trouble 2
+Royal Chamber. Beside the infant king.
+City Ruins: Near Factory.
+Desert: Center. Found with Scanner Pod Unit.
+City ruins: near the tower.
+Factory: found using Scanner.
+Desert: Found sporatically near the waterside in the desert oasis.
+
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+Random harvestable item in the lower sections of the Abandoned Factory.
+
+Reward for completing Treasure Hunt at the Castle
+Found at gathering points in the Forest Zone
+
+Desert Zone: Chest near the Oasis for the Photographs side quest
+Reward for completing Popola's Errand
+Acquire during A Villager's Request from Anemone
+Sold by the Clown Vendor in the Amusement Park (after completing Route C)
+Can be found from items in the Flooded City
+Can be found in Forest Zone
+
+Desert Zone: Chest near the Oasis for the Photographs side quest
+Reward for completing Popola's Errand
+Acquire during A Villager's Request from Anemone
+Sold by the Clown Vendor in the Amusement Park (after completing Route C)
+Can be found from items in the Flooded City
+Can be found in Forest Zone
+
+Reward for completing Reconnaissance Squad
+City Ruins - Locked Chest.
+Forest Zone: Small Stubby mounted on the Medium Quadrupeds have a chance to drop large batteries.
+Desert Zone: Drops from the infinite respawning mobs down in the pit where you first fight Adam.
+Reward for completing Robo Dojo--Red and White Belt
+Large battery has a slightly increased drop rate when wearing a Pink Ribbon
+Sold by Emil (Resistance Camp route)
+
+Dropped by Small Stubby
+Sold by Emil
+City Ruins - Locked Chest.
+
+Is given by Big Brother Machine in Amusement Park: Main Square
+
+Reward for completing Idiot Savant
+Reward for completing The Recluse
+After Pascal has become a vendor.
+
+Defeat the Goliath Tank (Amusement Park) in the Amusement Park
+Reward for completing Threat Disposal
+Reward for completing Idiot Savant
+Defeat the Gold Tank and the Courageous Brother in the Desert to receive two Machine Core.
+
+Desert Housing: Dropped by lvl 38 large bipedal enemies in the boss area.
+Reward for completing The Permanent Recluse
+Reward for completing Idiot Savant
+After Pascal has become a vendor.
+
+Dropped by Small Biped
+Reward for completing The Recluse Stays Home
+Reward for completing Idiot Savant
+After Pascal has become a vendor.
+
+First chest on the first level after the first "boss" encounter.
+Reward for completing Sorting Trouble 3
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+After Pascal has become a vendor.
+
+Reward for completing The Permanent Recluse
+Reward for completing Idiot Savant
+Can drop from machines living in the City Ruins: Deep Cave.
+After Pascal has become a vendor.
+
+Dropped by Medium Biped enemies in City Ruins near collapsed area. (Enhanced Machines version)
+Lower subterranean portion of the Desert Zone, inside a chest by some Medium Biped enemies
+First portion of the forest castle in a chest guarded by 4 bipeds. (Confirmed on Route B)
+Reward for completing Game Dev Machine Lv 3
+Reward for completing Robo Dojo--Red Belt
+Reward for completing Lord of the Valley
+Reward for completing Vanquish the Bad Bot
+Sold by Emil's shop when located near the Resistance Camp.
+
+Reward for completing Half-Wit Inventor.
+Reward for completing Popola's Errand
+Reward for completing Storage Element
+Reward for completing Gathering Keepsakes
+Reward for completing Reconnaissance Squad
+Reward for completing Data on the Old World
+Chest in desert arena of the first fight Vs. Adam
+Chest in Old Facility.
+Can be found in the Tower (third playthrough)
+
+Reward for completing Popola's Errand
+Reward for investing in the Half-Wit Inventor 80,000 level
+Sold from Half-wit Inventor for 10.000 G after completing his Quest
+
+Reward for completing Treasure Hunt at the Castle
+Reward for completing Storage Element
+Reward for completing The Wandering Couple
+Flooded City, Can be found in Harvest points.
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+
+Dropped by Moose
+
+Loot by the waterfall in the Forest Zone where you trigger Photographs
+Reward for completing Devola's Request
+Loot on the path from the Forest Castle's courtyard to Pascal's Village
+
+Best bet is Factory: Entrance. Keep reloading after every run from the transporter to the doors.
+Can be looted in the Desert Zone
+Reward for completing Camp Development
+Sold by Amusement park vendor once zombified
+
+Reward for completing Game Dev Machine Lv 3
+Reward for completing Speed Star
+Reward for completing Reconnaissance Squad
+City Ruins - Locked Chest:
+Sold by Emil (Resistance Camp route)
+Dropped by level 38 machines in the Amusement Park entrance, near the stone fountain.
+
+Reward for completing Resistance Disappearance
+Reward for completing The Wandering Couple
+Flooded City, Can be found in Harvest points.
+Can be purchased from the back-alley vendor in the Amusement Park on your third playthrough.
+
+Overpass bridge in City Ruins
+Reward for completing Play With Us!
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+
+Reward for completing The Twins' Request
+
+The Amusement Park Rabbit at the main entrance of the Amusement Park can be farmed repeatedly.
+The Tower, after the first Ko-Shi boss encounter as A2.
+Complete the Emil's Determination quest, then return to Emil's house to find the part in a chest.
+
+Flooded City - Locked Chest.
+Forest Zone - Locked Chest.
+Copied City - Locked Chest.
+
+Reward for completing Anemone's Past
+Reward for completing Robo Dojo--Red Belt
+Dropped by the Courageous Brother after defeating it and the two Gold Goliath Bipeds in the City Ruins
+
+Treasure in Amusement Park
+Reward for completing Stamp Collecting
+
+Reward for completing Game Dev Machine Lv 2
+Reward for completing Reconnaissance Squad
+City Ruins - Locked Chest.
+Can be dropped by the Rampaging Small Bipeds near the Park Ruins: Attraction Sq. - Fast travel point
+
+Dropped by Goliath Biped (Desert Zone)
+Dropped by Goliath Biped (Enhanced Machines)
+Dropped by Goliath Biped (Forest Kingdom Machines)
+City Ruins - Locked Chest.
+Sold by Emil (route C)
+
+Dropped by Medium Biped (level 18+)
+Dropped by Linked-sphere Type
+Reward for completing Game Dev Machine Lv 2
+Reward for completing Reconnaissance Squad
+Three can be found inside a chest in the second large building of the forest castle. Just after the first 
+linked-sphere machine and before the second set of stairs on a hard to reach platform.
+
+Can be looted in the Desert Zone
+Reward for completing Camp Development
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+
+Sold by the Shop Keeper in the Park Ruins
+
+Can be found in various locations around the world, typically at the base of trees and foliage.
+Given as a reward for completing The Manager's Request
+Sold by the shop keeper in the Park Ruins (after completing Route C)
+
+Given to you by Anemone when you complete Machine Request.
+
+Drop from Small Stubby
+
+Can be looted in the Desert Zone
+Layer robots next to the Desert Camp.
+Can be bought from Emil
+Dropped by Reverse-jointed Goliath
+Dropped by Multi-tier robots.
+
+*** Weapons & Pods ***
+***** Small Swords *****
+Beastbane 
+	<gold - 17500 | copper ore - 5 | stretched coil - 3 | pyrite - 5 | iron ore - 5 | silver ore - 5 | Stripped Screw - 8
+	 meteorite shard - 1 | gold ore - 2 | pristine screw -3 | Machine arm - 2 | Meteorite - 1>
+Engine Blade
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | pearl - 3 | dented plate - 4 | titanium alloy -  3 
+	| broken battery - 3 | black pearl - 2>
+Faith
+	<gold - 17500 | rusted clump - 5 | warped wire - 3 | pyrite - 5 | dented plate - 4 | titanium alloy - 3 | broken battery - 3
+	| meteorite shard - 1 | gold ore - 2 | rusty bolt - 5 | new bolt - 3 | machine arm - 2 | meteorite 1>
+Type-4O Sword
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | pearl - 3 | Dented plate - 4 | titanium alloy - 3 | broken battery - 8
+	| black pearl - 2 | memory alloy - 2 | large battery - 3 | machine arm - 2 | meteorite - 1>
+Type-3 Sword
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5| iron ore - 4 | silver ore - 3 | rusty bolt - 8 | amber - 2
+	| gold ore - 2 | New Bolt - 3 | Machine Arm - 2 | Meteorite - 1>
+Ancient Overlord
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | warped wire - 5 | dented plate - 4 | titanium alloy - 3 
+	| small gear - 8 | amber - 2 | memory alloy - 2 | large gear - 3 | marchine arm - 2 | meteorite - 1>
+Virtuous Contract
+	<gold - 17500 | rusted clump - 5 | beast hide - 5 | crystal - 5 | dented plate - 4 | titanium alloy - 3 | severed cable - 8
+	| amber - 2 | memory alloy - 2 | pristine cable - 3 | machine arm - 2 | moldavite - 1>
+Cruel Oath
+	<gold - 17500 | copper ore - 5 | beast hide - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | small gear - 5
+	| amber - 2 | gold ore - 2 | large gear - 3 | machine arm - 2 | moldavite - 1>
+YoRHa-Issue Blade
+	<gold - 17500 | rusted clump - 5 | stretched coil - 5 | broken key - 5 | dented plate - 4 | titanium alloy - 3
+	| rusty bolt - 8 | pyrite - 3 | memory alloy - 2 | New Boly - 3 | Machine Arm - 2 | moldavite - 1>
+Phoenix Dagger
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | pearl - 5 | dented plate - 4 | titanium alloy - 3 | crushed nut - 8 
+	| black pearl - 2 | memory alloy - 2 | clean nut - 3 | machine arm - 2 | meteorite - 1>
+Machine Sword
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | dented socket - 8
+	| amber - 2 | gold ore - 2 | sturdy socket - 3 | machine arm - 2 | moldavite - 1>
+Iron Pipe
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 4 | small gear - 8 
+	| amber - 2 | gold ore - 2 | large gear - 3 | machine arm - 2 | moldavite - 1>
+Cypress Stick
+	<gold - 17500 | copper ore - 5 | borken key - 5 | stretched coil - 5 | iron ore - 4 | silver ore - 3 | severed cable - 8
+	| pyrite - 3 | gold ore - 2 | pristine cable - 3 | machine arm - 2 | moldavite - 1>
+
+***** Large Swords *****
+Iron Will
+	<gold - 17500 | rusted clump - 5 | broken key - 5 | pyrite - 5 | dented palte - 4 | titanium alloy - 3 | broken battery - 8
+	| meteorite shard - 1 | memory alloy - 2 | large battery - 3 | machine torso - 2 | meteorite - 1> 
+Fang Of The Twins
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | severed cable - 8 
+	| amber - 2 | gold ore - 2 | pristine cable - 3 | machine torso - 2 | moldavite - 1>
+Beastlord
+	<gold - 17500 | copper ore - 5 | pryite - 5 | warped wire - 3 | iron ore - 4 | silver ore - 3 | stripped screw - 8
+	| meteorite shard - 1 | gold ore - 2 | pristine screw - 3 | Machine torso - 2 | meteorite - 1>
+Phoenix Sword
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | pearl - 3 | dented plate - 4 | titanium alloy - 3
+	| crushed nut - 8 | black pearl - 2 | Memory alloy - 2 | clean nut - 3 | machine torso - 2 | meteorite - 1>
+Type-4O Blade
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | pearl - 3 | dented plate - 4 | titanium alloy - 3 
+	| broken battery - 8 | black pearl - 2 | memory alloy - 2 | large battery - 3 | machine torso - 2 | meteorite -1>
+Type-3 Blade
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | rusty bolt - 8 |
+	| amber - 2 | gold ore - 2 | new bolt - 3 | machine torso -2 | meteorite - 1>	
+Virtuous Treaty
+	<gold - 17500 | rusted clump - 5 | beast hide - 5 | crystal - 5 | dented plate - 4 | titanium alloy - 3 | 
+	| warped wire - 5 | amber - 2 | memory alloy - 2 | severed cable - 5 | pristine cable - 3 | machine torso - 2 | moldavite - 1>
+Cruel Blood Oath
+	<gold - 17500 | copper ore - 5 | beast hide - 5 | stretched coil - 5 | dented plate - 4 | titanium alloy - 3 
+	| small gear - 8 | amber - 2 | memory alloy - 2 | large gear - 3 | machine torso - 2 | Meteorite - 1>
+Machine Axe
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | dented socket - 8
+	| amber - 2 | gold ore - 2 | sturdy socket - 3 | machine torso - 2 | moldavite - 1>
+***** Spears *****
+Beastcurse
+	<gold - 17500 | copper ore - 3 | stretched coil - 3 | pyrite - 5 | iron ore - 4 | silver ore - 3 | stripped screw - 8
+	| meteorite shard - 1 | gold ore - 2 | pristine screw - 3 | machine leg - 2 | meteorite -1>
+Dragoon Lance
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | warped wire - 5 | dented plate - 4 | titanium alloy - 3
+	| crushed nut - 8 | pyrite - 2 | memory alloy - 2 | clean nut - 3 | machine leg - 2 | meteorite - 1>
+Phoenix Lance
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | pearl - 3 | dented plate - 4 | titanium alloy - 3 
+	| crushed nut - 8 | black pearl - 2 | memory alloy - 2 | clean nut - 3 | machine leg - 2 | moldavite - 1>
+Type-4O Lance
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | pearl - 3 | dented plate - 4 | titanium alloy - 3
+	| broken battery - 8 | black pearl - 2 | memory alloy - 2 | large battery - 3 | machine leg - 2 | meteorite - 1>
+Type-3 Lance
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | rusty bolt - 8
+	| amber - 2 | gold ore - 2 | new bolt - 3 | machine leg - 2 | meteorite - 1>
+Spear Of The Usurper
+	<gold - 17500 |copper ore - 5 | borken key - 5 | stretched coil - 5 | iron ore - 4 | silver ore - 3 | rusty bolt - 8
+	| pyrite - 3 | gold ore - 2 | new bolt - 3 | machine leg - 2 | modavite - 1>
+Virtuous Dignity
+	<gold - 17500 | rusted clump - 5 | beast hide - 5 | crystal - 5 | dented plate - 4 | titanium alloy - 3 | warped wire - 5
+	| amber - 2 | memory alloy - 2 | severed cable - 5 | pristine cable - 3 | machine leg - 2 | moldavite - 1>
+Cruel Arrogance
+	<gold - 17500 | copper ore - 5 | beast hide - 5 | stretched coil - 5 | iron ore - 4 | silver ore - 3 | small gear - 8
+	| pyrite - 3 | gold ore - 2 | large - 3 | machine leg - 2 | moldavite - 1>
+Machine Spear
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | dented socket - 8
+	| amber - 2 | gold ore - 2 | sturdy socket - 3 | machine leg - 2 | moldavite - 1>
+
+***** Combat Bracers *****
+Bare Fists
+	< Not Available >
+Angel's Folly
+	<gold - 17500 | rusted clump - 5 | warped wire - 3 | pyrite - 5 | dented plate - 4 | titanium alloy - 3 | stripped screw - 8
+	| meteorite shard - 1 | memory alloy - 2 | pristine screw - 3 | machine head - 2 | meteorite - 1>
+Demon's Cry
+	<gold - 17500 | copper ore - 5 | stretched coil - 3 | pearl - 3 | iron ore - 4 | silver ore - 3 | small gear - 8 
+	| black pearl - 2 | gold ore - 2 | large gear - 3 | machine head - 2 | meteorite - 1>
+Type-4O fists
+	<gold - 17500 | rusted clump - 5 | broken circuit - 5 | pearl - 3 | dented plate - 4 | titanium alloy - 3 | broken battery - 8
+	| black pearl - 2 | memory alloy - 2 | large battery - 3 | machine head - 2 | meteorite - 1>
+Type-3 Fists
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | rusty bolt - 8
+	| amber - 2 | gold ore - 2 | new bolt - 3 | machine head - 2 | meteorite - 1>
+Virtuous Grief
+	<gold - 17500 | rusted clump - 5 | beast hide - 5 | crystal - 5 | dented plate - 4 | titanium alloy - 3 | severed cable - 8
+	| amber - 2 | memory alloy - 2 | pristine cable - 3 | machine head - 2 | moldavite - 1>
+Cruel Lament
+	<gold - 17500 | copper ore - 5 | beast hide - 5 | warped wire - 5 | iron ore - 4 | silver ore - 3 | small gear - 8 
+	| pyrite - 2 | gold ore - 2 | large gear - 3 | machine head - 2 | moldavite - 1>
+Machine Heads
+	<gold - 17500 | copper ore - 5 | broken key - 5 | crystal - 5 | iron ore - 4 | silver ore - 3 | dented socket - 8 
+	| amber - 2 | gold ore - 4 | sturdy socket - 3 | machine head - 2 | moldavite - 1>
+Emil Heads
+	<gold - 17500 | rusted clump - 5 | broken key - 5 | crystal - 5 | dented plate - 4 | titanium alloy - 3 | severed cable - 8
+	| amber - 2 | memory alloy - 2 | pristine cable - 3 | machine head - 2 | moldavite - 1>
+
+***** Pods *****
+Pod A
+	<gold - 17500 | tree seed - 10 | mushroom - 10 | pure water - 10 | natural rubber - 10 | power up part S - 1 |
+	plat seed - 5 | eagle eggs - 5 | tanning agent - 5 | filler metal - 5 | power up part M - 1 | tree sap - 3
+	| giant egg - 3 | dye - 3 | machine oil - 3 | power up part - 1>
+Pod B
+	<gold - 17500 | tree seed - 10 | torn book - 10 | natural rubber - 10 | simple gadget - 10 | power up part s - 1
+	| plant seed - 5 | tech manual - 5 | filler metal - 5 | elaborate gadget - 5 | power up part m - 1 | tree sap - 3
+	| thick dictionary - 3 | machine oil - 3 | complex gadget - 3 | power up part L - 1>
+Pod C
+	<gold - 17500 | mushroom - 10 | torn book - 10 | pure water - 10 | simple gadget - 10 | power up part s - 1 
+	| eagle eggs - 5 | tech manual - 5 | tanning agent - 5 | elaborate gadget - 5 | power up part m - 1 | giant egg - 3
+	| thick dictionary - 3 | dye - 3 | complex gadget - 3 | power up part l - 1>
+
+*** Total Amounts ***
+//see excel spread sheet
