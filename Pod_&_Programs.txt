@@ -1,0 +1,24 @@
+* Pods & Programs * 
+
+*** Pods ***
+Pod A
+Pod B
+Pod C
+
+*** Pod Programs ***
+R020 Laser
+R030 Hammer
+R040 Blade
+R050 Spear
+A060 P. Shield
+R070 M. Shield
+A080 Wave
+A090 Wire
+A100 Decoy
+A110 Slow
+A120 Repair
+Al30 Bomb
+A140 Gravity 
+A150 Volt
+A160 Missle
+A170 Scanner

@@ -1,0 +1,441 @@
+* Item Shops *
+
+*** Bunker ***
+Small Recovery	100 G
+Medium Recovery	200 G
+Large Recovery	400 G
+Visual Cure	150 G
+Aural Cure	150 G
+Cure Manipulation	150 G
+Volt-Proof Salve	150 G
+Melee Attack Up (S)	100 G
+Melee Attack Up (L)	200 G
+Ranged Attack Up (S)	100 G
+Ranged Attack Up (L)	200 G
+Melee Defense Up (S)	100 G
+Melee Defense Up (L)	200 G
+Ranged Defense Up (S)	100 G
+Ranged Defense Up (L)	200 G
+HUD: HP Gauge	500 G
+HUD: Sound Waves	5,000 G
+HUD: Enemy Data	500 G
+HUD: Skill Gauge	500 G
+HUD: Text Log	500 G
+HUD: Mini-map	500 G
+HUD: EXP Gauge	5,000 G
+HUD: Save Points	500 G
+HUD: Damage Values	500 G
+HUD: Objectives	500 G
+HUD: Control	500 G
+HUD: Fishing Spots	5,000 G
+Item Scan	5,000 G
+Auto-Attack	500 G
+Auto-Fire	500 G
+Auto-Evade	500 G
+Auto-Program	500 G
+Auto-Weapon Switch	500 G
+
+*** Resistance Camp *** 
+Small Recovery	100 G
+Medium Recovery	200 G
+Large Recovery	400 G
+Visual Cure	150 G
+Aural Cure	150 G
+Cure Manipulation	150 G
+Volt-Proof Salve	150 G
+Melee Attack Up (S)	100 G
+Melee Attack Up (L)	200 G
+Ranged Attack Up (S)	100 G
+Ranged Attack Up (L)	200 G
+Melee Defense Up (S)	100 G
+Melee Defense Up (L)	200 G
+Ranged Defense Up (S)	100G
+Ranged Defense Up (L)	200G
+HUD: HP Gauge	500G
+HUD: Sound Waves	5,000 G
+HUD: Enemy Data	500 G
+HUD: Skill Gauge	500 G
+HUD: Text Log	500 G
+HUD: Mini-map	500 G
+HUD: EXP Gauge	5,000 G
+HUD: Save Points	500 G
+HUD: Damage Values	500 G
+HUD: Objectives	500 G
+HUD: Control	500 G
+HUD: Fishing Spots	5,000 G
+Item Scan	5,000 G
+Auto-Attack	500 G
+Auto-Fire	500 G
+Auto-Evade	500 G
+Auto-Program	500 G
+Auto-Weapon Switch	500 G
+Weapon Attack Up	500 G
+Weapon Attack Up +1	1,000 G
+Weapon Attack Up +2	2,000 G
+Ranged Attack Up	500 G
+Ranged Attack Up +1	1,000 G
+Ranged Attack Up +2	2,000 G
+Melee Defense	500 G
+Melee Defense +1	1,000 G
+Melee Defense +2	2,000 G
+Ranged Defense	500 G
+Ranged Defense +1	1,000 G
+Ranged Defense +2	2,000 G
+Max HP Up	500 G
+Max HP Up +1	1,000 G
+Max HP Up +2	2,000 G
+Hijack Boost	500 G
+Hijack Boost +1	1,000 G
+Hijack Boost +2	2,000 G
+Stun	500 G
+Stun +1	1,000 G
+Stun +2	2,000 G
+Animal Bait	100 G
+Sachet	1,000 G
+Sound Data 2	??
+
+*** Amusement Park ***
+Copper Ore	50 G
+Iron Ore	500 G
+Silver Ore	2,500 G
+Gold Ore	5,000 G
+Crystal	500 G
+Pearl	1,000 G
+Black Pearl	5,000 G
+Pyrite	500 G
+Amber	1,000 G
+Moldavite	5,000 G
+Tree Seed	50 G
+Plant Seed	50 G
+Tree Sap	100 G
+Torn Book	100 G
+Tech Manual	1,000 G
+Thick Dictionary	10,000 G
+Tanning Agent	500 G
+Dye	500 G
+Natural Rubber	1,000 G
+Machine Oil	2,500 G
+Filler Metal	5,000 G
+
+*** Machine Village ***
+Small Recovery	100 G
+Medium Recovery	200 G
+Large Recovery	400 G
+Visual Cure	150 G
+Aural Cure	150 G
+Cure Manipulation	150 G
+Volt-Proof Salve	150 G
+Melee Attack Up (S)	100 G
+Melee Attack Up (L)	200 G
+Ranged Attack Up (S)	100 G
+Ranged Attack Up (L)	200 G
+Melee Defense Up (S)	100 G
+Melee Defense Up (L)	200 G
+Ranged Defense Up (S)	100 G
+Ranged Defense Up (L)	200 G
+HUD: HP Gauge	500 G
+HUD: Sound Waves	5,000 G
+HUD: Enemy Data	500 G
+HUD: Skill Gauge	500 G
+HUD: Text Log	500 G
+HUD: Mini-map	500 G
+HUD: EXP Gauge	5,000 G
+HUD: Save Points	500 G
+HUD: Damage Values	500 G
+HUD: Objectives	500 G
+HUD: Control	500 G
+HUD: Fishing Spots	5,000 G
+Item Scan	5,000 G
+Auto-Attack	500 G
+Auto-Fire	500 G
+Auto-Evade	500 G
+Auto-Program	500 G
+Auto-Weapon Switch	500 G
+Fast Cooldown	2,500 G
+Fast Cooldown +1	5,000 G
+Fast Cooldown +2	10,000 G
+Anti Chain Damage	500 G
+Anti Chain Damage +1	1,000 G
+Anti Chain Damage +2	2,000 G
+Drop Rate Up	500 G
+Drop Rate Up +1	1,000 G
+Drop Rate Up +2	2,000 G
+EXP Gain Up	2,500 G
+EXP Gain Up +1	5,000 G
+EXP Gain Up +2	10,000 G
+Heal Drops Up	500 G
+Heal Drops Up +1	1,000 G
+Heal Drops Up +2	2,000 G
+Stun	500 G
+Stun +1	1,000 G
+Stun +2	2,000 G
+Animal Bait	100 G
+Sachet	1,000 G
+
+*** Desert Camp ***
+Small Recovery	100 G
+Medium Recovery	200 G
+Large Recovery	400 G
+Visual Cure	150 G
+Aural Cure	150 G
+Cure Manipulation	150 G
+Volt-Proof Salve	150 G
+Melee Attack Up (S)	100 G
+Melee Attack Up (L)	200 G
+Ranged Attack Up (S)	100 G
+Ranged Attack Up (L)	200 G
+Melee Defense Up (S)	100 G
+Melee Defense Up (L)	200 G
+Ranged Defense Up (S)	100 G
+Ranged Defense Up (L)	200 G
+HUD: HP Gauge	500 G
+HUD: Sound Waves	5,000 G
+HUD: Enemy Data	500 G
+HUD: Skill Gauge	500 G
+HUD: Text Log	500 G
+HUD: Mini-map	500 G
+HUD: EXP Gauge	5,000 G
+HUD: Save Points	500 G
+HUD: Damage Values	500 G
+HUD: Objectives	500 G
+HUD: Control	500 G
+HUD: Fishing Spots	5,000 G
+Item Scan	5,000 G
+Auto-Attack	500 G
+Auto-Fire	500 G
+Auto-Evade	500 G
+Auto-Program	500 G
+Auto-Weapon Switch	500 G
+Down-Attack Up	500 G
+Down-Attack Up +1	1,000 G
+Down-Attack Up +2	2,000 G
+Resilience	500 G
+Resilience +1	1,000 G
+Resilience +2	2,000 G
+Counter	500 G
+Counter +1	1,000 G
+Counter +2	2,000 G
+Charge Attack	500 G
+Charge Attack +1	1,000 G
+Charge Attack +2	2,000 G
+Combust	500 G
+Combust +1	1,000 G
+Combust +2	2,000 G
+Animal Bait	100 G
+Sachet	1,000 G
+
+*** Forest Zone ***
+Small Recovery	100 G
+Medium Recovery	200 G
+Large Recovery	400 G
+Full Recovery	500 G
+Visual Cure	150 G
+Aural Cure	150 G
+Cure Manipulation	150G
+Cure All Status	300 G
+Cure All + Heal All	1500 G
+Volt-Proof Salve	150 G
+HUD: HP Gauge	50 0G
+HUD: Sound Waves	5,000 G
+HUD: Enemy Data	500 G
+HUD: Skill Gauge	500 G
+HUD: Text Log	500 G
+HUD: Mini-map	500 G
+HUD: EXP Gauge	5,000 G
+HUD: Save Points	500 G
+HUD: Damage Values	500 G
+HUD: Objectives	500 G
+HUD: Control	500 G
+HUD: Fishing Spots	5,000 G
+Item Scan	5,000 G
+Auto-Attack	500 G
+Auto-Fire	500 G
+Auto-Evade	500 G
+Auto-Program	500 G
+Auto-Weapon Switch	500 G
+Critical Up	2,000 G
+Critical Up +1	5,000 G
+Critical Up +2	10,000 G
+Auto-Heal	2,500 G
+Auto-Heal +1	5,000 G
+Auto-Heal +2	10,000 G
+Shock Wave	2,500G
+Shock Wave +1	5,000 G
+Shock Wave +2	10,000 G
+Damage Absorb	500 G
+Damage Absorb +1	1,000 G
+Damage Absorb +2	2,000 G
+Reset	2,500 G
+Reset +1	5,000 G
+Reset +2	10,000 G
+Animal Bait	100G
+Sachet	1,000G
+
+*** Canyon Machine *** 
+Offensive Heal	500 G
+Offensive Heal +1	1,000 G
+Offensive Heal +2	2,000 G
+Offensive Heal +3	3,000 G
+Offensive Heal +4	5,000 G
+Offensive Heal +5	7,500 G
+Deadly-Heal	2,500 G
+Deadly-Heal +1	5,000 G
+Deadly-Heal +2	10,000 G
+Deadly-Heal +3	20,000 G
+Deadly-Heal +4	30,000 G
+Deadly Heal +5	40,000 G
+Evade Range Up	500 G
+Evade Range Up +1	1,000 G
+Evade Range Up +2	2,000 G
+Evade Range Up +3	3,000 G
+Evade Range Up +4	5,000 G
+Evade Range Up +5	7,500 G
+Moving Speed Up	500 G
+Moving Speed Up +1	1,000 G
+Moving Speed Up +2	2,000 G
+Moving Speed Up +3	3,000 G
+Moving Speed Up +4	5,000 G
+Moving Speed Up +5	7,500 G
+Last Stand	500 G
+Last Stand +1	1,000 G
+Last Stand +2	2,000 G
+Last Stand +3	3,000 G
+Last Stand +4	5,000 G
+Last Stand +5	7,500 G
+Vengeance	500 G
+Vengeance +1	1,000 G
+Vengeance +2	2,000 G
+Vengeance +3	3,000 G
+Vengeance +4	5,000 G
+Vengeance +5	7,500 G
+Overclock	2,500 G
+Overclock +1	5,000 G
+Overclock +2	10,000 G
+Overclock +3	20,000 G
+Overclock +4	30,000 G
+Overclock +5	40,000 G
+Taunt Up	500 G
+Taunt Up +1	1,000 G
+Taunt Up +2	2,000 G
+Taunt Up +3	3,000 G
+Taunt Up +4	5,000 G
+Taunt Up +5	7,500 G
+Auto-use Item	2,500 G
+Auto-use Item +1	5,000 G
+Auto-use Item +2	10,000 G
+Auto-use Item +3	20,000 G
+Auto-use Item +4	30,000 G
+Auto-use Item +5	40,000 G
+
+*** Pascal's ***
+Machine Heads	10,000 G
+Machine Arm	1,125 G
+Machine Leg	1,125 G
+Machine Torso	1,125 G
+Machine Head	1,125 G
+Children's Cores	30,000 G
+
+*** Devola & Popola ***
+Type-3 Sword	20,000 G
+Type-3 Blade	20,000 G
+Skill Salve (S)	150 G
+Skill Salve (L)	300 G
+Impact Bracer (S)	150 G
+Impact Bracer (L)	300 G
+Speed Salve (S)	150 G
+Speed Salve (L)	300 G
+Small G Luck	300 G
+Large G Luck	600 G
+Death Rattle	5,000 G
+Evasive System	5,000 G
+Continuous Combo	5,000 G
+Bullet Detonation	5,000 G
+Auto-collect Items	5,000 G
+
+*** Emil's *** 
+Weapon Attack Up +3	3,500 G
+Down-Attack Up +3	3,500 G
+Critical Up +3	20,000 G
+Ranged Attack Up +3	3,500 G
+Fast Cooldown +3	20,000 G
+Melee Defense +3	3,500 G
+Ranged Defense +3	3,500 G
+Anti Chain Damage +3	3,500 G
+Max HP Up +3	3,500 G
+Offensive Heal +3	3,500 G
+Deadly Heal +3	20,000 G
+Auto-Heal +3	20,000 G
+Evade Range Up +3	3,500 G
+Moving Speed Up +3	3,500 G
+Drop Rate Up +3	3,500 G
+EXP Gain Up +3	20,000 G
+Shock Wave +3	20,000 G
+Last Stand +3	3,500 G
+Damage Absorb +3	3,500 G
+Vengeance +3	3,500G
+Reset +3	20,000 G
+Overclock +3	20,000 G
+Resilience +3	3,500 G
+Counter +3	3,500 G
+Taunt Up +3	3,500 G
+Charge Attack +3	3,500 G
+Auto-use Item +3	20,000 G
+Hijack Boost +3	3,500 G
+Stun +3	3,500 G
+Combust +3	3,500 G
+Heal Drops Up +3	3,500 G
+Rusted Clump	50 G
+Dented Plate	500 G
+Titanium Alloy	1,000 G
+Broken Key	50 G
+Warped Wire	50 G
+Stretched Coil	50 G
+Broken Circuit	50 G
+Stripped Screw	500 G
+Small Gear	500 G
+Rusty Bolt	500 G
+Crushed Nut	500 G
+Dented Socket	500 G
+Severed Cable	500 G
+Broken Battery	500 G
+Weapon Attack Up +6	10,000G
+Down Attack Up +6	10,000G
+Critical Up +6	50,000G
+Ranged Attack Up +6	10,000G
+Fast Cooldown +6	50,000G
+Melee Defense +6	10,000G
+Ranged Defense +6	10,000G
+Max HP Up +6	10,000G
+Offensive Heal +6	10,000G
+Deadly Heal +6	50,000G
+Auto-Heal +6	50,000G
+Evade Range Up +6	10,000G
+Moving Speed Up +6	10,000G
+Drop Rate Up +6	10,000G
+EXP Gain Up +6	50,000G
+Shock Wave +6	50,000G
+Last Stand +6	10,000G
+Damage Absorb +6	10,000G
+Vengeance +6	10,000G
+Reset +6	50,000G
+Overclock +6	50,000G
+Resilience +6	10,000G
+Counter +6	10,000G
+Taunt Up +6	10,000G
+Charge Attack +6	10,000G
+Auto-use Item +6	50,000G
+Hijack Boost +6	10,000G
+Stun +6	10,000G
+Combust +6	10,000G
+Heal Drops Up +6	10,000G
+Type-3 Fists	20,000G
+Angel's Folly	20,000G
+Memory Alloy	7,500G
+Pristine Screw	7,500G
+Large Gear	7,500G
+New Bolt	7,500G
+Clean Nut	7,500G
+Sturdy Socket	7,500G
+Pristine Cable	7,500G
+Large Battery	7,500G
+Dress Module	10,000G
