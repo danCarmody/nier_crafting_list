@@ -1,0 +1,98 @@
+* Locations - (Enemies)*
+
+*** Bunker ***
+N/A
+
+*** City Ruins ***
+Moose (Lvl 4)
+Small Stubby (Lvl 4)
+Small Flyer (Lvl 5)
+Medium Biped (Lvl 8/9)
+Boar
+Enhanced Machines (post-boss)
+Reverse-jointed Goliath (post-boss)
+
+*** Resistance Camp ***
+Rampaging Small Stubby
+Rampaging Small Biped
+Rampaging Medium Biped
+
+*** Desert - Zone ***
+Small Stubby
+Small Biped
+Medium Biped
+Multi-tier Type
+Small Exploder
+Small Flyer
+
+*** Desert - Housing ***
+Small Stubby
+Goliath Biped
+Adam (Boss)
+Small Biped (after boss)
+Medium Biped (after boss)
+Small Explorer (after boss)
+Medium Explorer (after boss)
+
+*** Amusment Park ***
+Goliath Tank (Amusement Park)
+Small Stubby
+Small Biped
+Medium Biped
+Small Flyer
+Amusement Park Rabbit
+
+*** Machine Village ***
+N/A
+
+*** Forest Zone ***
+Small Stubby
+Small Biped
+Medium Quadruped
+Moose
+Boar
+Goliath Biped
+Medium Biped
+
+*** Flooded Zone ***
+Small Stubby
+Small Flyer
+Medium Biped
+Reverse-jointed Goliath
+Medium Flyer
+Hateful Sister
+
+*** Underground Cave ***
+<Missing, Needs Input>
+
+*** Copied City ***
+Adam (Boss)
+Afther boss figth (all lvl60-65)
+Small Stubby (normal and enhaced ver)
+Medium Bipedal (normal and enhaced ver) plug-in drops: Critical lvl 2-4
+Large Bipedal (normal and enhaced ver, whith shield or not) plug-in drops: wearpon atk up lvl 2-4
+Goliath Bipedal (normal and enhaced ver)
+Small Flyer (normal and enhaced ver)
+Small Sphere (normal and enhaced ver, with gun and axe) plug-in drops: Auto Heal lvl 2-4
+
+*** The Abandoned Factory ***
+<Needs Input>
+
+*** Resource Recovery Unit - Meat ***
+<Needs Input>
+
+*** Resource Recovery Unit - Soul ***
+<Needs Input>
+
+*** Resource Recovery Unit - God *** 
+<Needs Input>
+
+*** The Tower ***
+<Needs Input>
+
+*** Path To Emil ***
+<While it is a zone, not needed for farm run>
+<Needs Input>
+
+*** Battle Arena ***
+<Needs Input>

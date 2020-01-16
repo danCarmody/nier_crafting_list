@@ -1,0 +1,50 @@
+* Weapons *
+
+*** Small Swords ***
+Beastbane
+Engine Blade
+Faith
+Type-4O Sword
+Type-3 Sword
+Ancient Overlord
+Virtuous Contract
+Cruel Oath
+YoRHa-Issue Blade
+Phoenix Dagger
+Machine Sword
+Iron Pipe
+Cypress Stick
+
+*** Large Swords ***
+Iron Will
+Fang Of The Twins
+Beastlord
+Phoenix Sword
+Type-4O Blade
+Type-3 Blade
+Virtuous Treaty
+Cruel Blood Oath
+Machine Axe
+
+*** Spears ***
+Beastcurse
+Dragoon Lance
+Phoenix Lance
+Type-4O Lance
+Type-3 Lance
+Spear Of The Usurper
+Virtuous Dignity
+Cruel Arrogance
+Machine Spear
+
+*** Combat Bracers ***
+Bare Fists
+Angel's Folly
+Demon's Cry
+Type-4O fists
+Type-3 Fists
+Virtuous Grief
+Cruel Lament
+Machine Heads
+Emil Heads
+

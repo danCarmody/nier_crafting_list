@@ -1,0 +1,197 @@
+* Enemies *
+
+*** Standard ***
+Small Stubby
+Small Stubby: Gun Equipped
+Small Stubby: Shield Equipped
+Small Stubby: Electromagnetic-shield-equipped
+Multi-tier Type
+Multi-tier Type: Gun Equipped
+Small Biped
+Small Biped: Torch Equipped
+Medium Biped
+Medium Biped: Shield Equipped
+Medium Biped: Electromagnetic Shield Equipped
+Medium Quadruped
+Multi-leg Medium model: Long-range
+Multi-leg Medium model: Close-range
+Goliath Biped
+Goliath Biped: Enhanced Legpower Model
+Reverse-jointed Goliath
+Small Flyer
+Medium Flyer
+Medium Flyer: Kamikaze Unit
+Medium Flyer: Gunner x2, Kamikaze x2
+Small Exploder
+Medium Exploder
+Small Sphere: Axe-quipped
+Small Sphere: Drill-equipped
+Small Sphere: Gun-equipped (On your third playthrough, take the elevator back down to the copied city and it will be on your right)
+Linked-sphere Type: Drill-equipped
+Linked-sphere Type: Thorn-equipped
+Linked-sphere Type: Gun-equipped
+Linked-sphere Type: Saw-equipped
+Rampaging Small Stubby
+Rampaging Small Biped
+Rampaging Medium Biped
+
+*** Desert Machines ***
+Small Stubby
+Small Stubby: Saw-equipped
+Small Biped: Sword-equipped
+Medium Biped: Sword-equipped
+Medium Biped: Shield-equipped (Found along with the electromagnetic shield equipped variant in the underground caverns under the desert area near the desert camp access point, guarding the Cruel Blood Oath large sword. 9S is required to reach the weapon and these machines. confirmed Chapter 07-02)
+Medium Biped: Electromagnetic Shield-equipped (Found along with the standard shield equipped variant in the underground caverns under the desert area near the desert camp access point, guarding the Cruel Blood Oath large sword. 9S is required to reach the weapon and these machines. confirmed Chapter 07-02)
+Goliath Biped
+Small Flyer
+Medium Flyer (Gunner Unit: On Route C playthrough, go to the Desert: Oil Field access point, and hug the wall to the left as you exit the oil field's enclosure. Proceed until you see them. Chapter 14-05.)
+Medium Flyer: Kamikaze Unit (Chapter 10-03 Route B or 15-01 Route C. Transport to Desert: Oil Field and hug the right side when leaving the Oil Field, keep going past the cave which leads to the ruined city area until you find a cliff with enemies. Just climb up and check if any spawned, it does not have a 100% spawnrate)
+Medium Flyer: Gunner x2, Kamikaze x2 (Chapter 13-02 or 14-01. Turn off minimap rotation and head East from the central desert access point.)
+
+*** Amusent Park Machines ***
+Small Stubby
+Small Biped
+Medium Biped: Gun-equipped (Chapter 04 in entrance square going around shooting Balloons)
+Small Flyer
+Medium Flyer
+Medium Flyer: Kamikaze Unit
+Medium Flyer: Gunner x2, Kamikaze x2
+Rampaging Small Biped
+Rampaging Medium biped (Under archway past entrance square, other bipeds will not update unit data. Confirmed in Chapter 14-01)
+
+*** Forest Kingdom Machines ***
+Small Stubby
+Small Biped: Spear-equipped
+Medium Biped: Spear-equipped
+Medium Biped: Shield-equipped
+Medium Biped: Electromagnetic Shield-equipped (Available Route B onwards, Found by dropping down and gliding to a plaform under Masamune)
+Medium Quadruped
+Goliath Biped: Enhanced Legpower Model
+Small Flyer
+
+*** Factory Machines ***
+Small Stubby
+Small Stubby: Kamikaze Unit
+Small Biped: Torch-equipped
+Small Biped: Axe-equipped
+Medium Biped: Axe-equipped
+Medium Quadruped (Chapter 09-02_2. Play as 2B. After the first conveyor belt, just before the first set "stamps" there is a gap in the stairs. Drop down and enter the room at the bottom to kill this unique enemy)
+Small Flyer
+
+*** Village Machines ***
+Small Stubby
+Multi-tier Type
+Small Biped
+Medium Biped
+Goliath Biped (Talk to it down on playground)
+Small Flyer
+Small Sphere
+Sartre (Jean-Paul)
+Pascal
+Father Machine
+Mother Machine
+Child Machine
+Big Sister Machine
+Little Sister Machine
+Scientist Machine
+Weird Machine
+
+*** Enhanced Machines ***
+Small Stubby
+Multi-tier Type (All variations: Desert Zone: Camp area, in a corner to the far left of entrance, only on Route C chapters) Gun Varation Confimed to spawn on 12-01 and 14-01 in Desert Housing Complex in a large group of enemies on the path to where you first fight Adam.
+Multi-tier Type: Gun-equipped
+Small Biped
+Medium Biped
+Medium Quadruped
+Multi-leg Medium Model: Long-range
+Multi-leg Medium Model: Close-range
+Goliath Biped
+Goliath Biped: Enhanced Legpower Model (Abandoned factory Hangar: head further back to room past first press conveyor,rare spawn in that room, (room before the alternate route to noctis engine blade)
+Reverse-jointed Goliath (Flooded City: It should spawn in Route C. Chapter 17-01, 14-01 are confirmed, may work in other chapters, go straight ahead and it should spawn where the two Medium Bipeds usually spawn (in front of the Soul Box) . This is a very rare spawn, roughly 1%, and may need dozens of reloads to see. Quicksaving at the flooded city save point, and then repeatedly loading the systems tab from the pause menu is the recommended method for quickly refreshing enemy spawns.
+Small Flyer
+Medium Flyer
+Medium Flyer: Kamikaze Unit (Desert Zone: As you leave the Oil Field, hug the right wall until you reach the cliffs with a large amount of machine lifeforms. They'll occasionally spawn amongst this group, in the corner between the Desert Zone and Desert Housing Complex If you follow the left wall as you exit the oil field, it can also spawn where the 2 normal kamikaze medium flyers are on later route C chapters - confirmed at 12-02) Spawn 17-01 confirmed
+Medium Flyer: Gunner x2, Kamikaze x2 (Desert Zone: As you leave the Oil Field, hug the right wall until you reach the cliffs with a large amount of machine lifeforms. They'll occasionally spawn amongst this group, in the corner between the Desert Zone and Desert Housing Complex If you follow the left wall as you exit the oil field, it can also spawn where the 2 normal kamikaze medium flyers are on later route C chapters - confirmed at 12-02, 17-01)
+Small Sphere: Axe-equipped  (Factory, past the first save location in route C, where there are some disabled hydraulic presses. Confirmed 17-01)
+Small Sphere: Drill-equipped (City Ruins: Cave, Route C chapters: Spawn is random, sometimes you get only normal Drills. Just reload from the transporter in front of the cave.)
+Small Sphere: Gun-equipped (City Ruins: Cave, Route C chapters / Flooded City: Coast, Route C chapters )
+Linked-sphere Type: Thorn-equipped (All Variations: Flooded City, during Route C)
+Linked-sphere Type: Saw-equipped  (C route - confirmed at Ch 17 - 3; Appears near the route through the ruin city's Speed ​​Star for the second time. Route C Appears in the room across the bridge if you go right at Access Point: Royal Chambers.)
+Linked-sphere Type: Drill-equipped (Desert Zone: Spawns on a rock near the cliffs between the entrance of the main desert area and the entrance to the Desert: Housing Complex)
+Linked-sphere Type: Gun-equipped
+
+*** EMP Attacked Machines ***
+Small Stubby
+Small Biped (spawns near Engel's arm in the city ruins starting at Chapter 12 route C. You might need to hit them and let them attack you for a bit to trigger the EMP effect and then kill them to get the unit data)
+Medium Biped
+Goliath Biped
+
+*** Special Unit Machines ***
+Marx
+Engels
+Adam
+Eve
+Goliath Tank (Amusement Park)
+Beauvoir (Simone)
+Goliath Flyer
+Grun
+Immanuel
+Ernst
+Kierkegaard
+So-Shi
+Boku-Shi
+Hegel
+Goliath Tank
+Auguste
+Friedrich
+Ko-Shi
+Ro-Shi
+Ko-Shi & Ro-shi
+Red Girl
+
+*** Androids ***
+YoRHa (Standard Armament)
+YoRHa (Heavy Armament)
+YoRHa (Flight Unit)
+YoRHa (Operator)
+8B
+22B
+64B
+210
+2B Copy
+9S
+A2: Long Hair (When you meet for the first time)
+A2: Short Hair (After choosing 9S on route D)
+
+*** Peculiar Machines ***
+Courageous Brother (All Gold Machines: Route C as 9S. Defeat each grounp starting at Desert Housing > Flooded City > City Ruins)
+Hateful Sister
+Vengeful Child
+Gold Tank
+Gold Goliath Biped
+Goliath Tank (Desert) (Encountered during the "Gathering Keepsakes" sidequest. Its unit data will only register once you complete the quest.)
+Gunman Biped (Gunman Machines: Heritage of the Past end)
+Gunman Flyer (Gunman Machines: Heritage of the Past end)
+Gunman Stubby (Gunman Machines:  Heritage of the Past end)
+Blood-drenched Machine
+Amusement Park Rabbit (Hack the Statue at Amusement Park with a Remote Controlled enemy or damage it until it starts moving.)
+Zombie Clown (Quest:  Stamp Collecting - Underground area by lift.)
+Animal Machine (Quest:  Turf War)
+Gravekeeper (Quest: Treasure Hunt at the Castle)
+Monster Type (Quest: The Twins' Request)
+Dying Goliath Biped (Quest: Lord of the Valley)
+
+*** Amicable Machines ***
+Machine with a Dream (Quest: Sartre's Melancholy)
+Machine in Love (Quest: Sartre's Melancholy)
+Machine with Makeup (Quest: Sartre's Melancholy)
+Romeo (Quest: Stamp Collecting)
+Juliet (Quest: Stamp Collecting)
+Father Servo: White Belt (Quest: Robo Dojo--White Belt)
+Father Servo: Brown Belt (Quest: Robo Dojo--Brown Belt)
+Father Servo: Black Belt (Quest: Robo Dojo--Black Belt)
+Father Servo: Red and White Belt (Quest: Robo Dojo--Red and White Belt)
+Father Servo: Red Belt (Quest: Robo Dojo--Red Belt)
+Animal-loving Machine (Quest: Animal Care)
+High-speed Machine (Quest: Speed Star)
+Masamune
